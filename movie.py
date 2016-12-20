@@ -7,7 +7,7 @@
 
 ######################################## Movie File ####################################################
 # Description: This file creates the class Movie to allow for instances of this class to be used in the
-#              main.py file. Class Movie has three basic propertities now.
+#              main.py file. Class Movie has three basic properties now.
 ########################################################################################################
 
 class Movie:
