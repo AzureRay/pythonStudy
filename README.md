@@ -1,6 +1,6 @@
 # pythonStudy
 ## my first python mini project -- My Favorite Movies Website
-### this website aims at learning the foundation of Python.
+### this website aims at learning the foundation of Python in Udacity.
 ### Basic python knowledge and web frond end knowledge are applied to this project.
 ### You can find bootstrap,javascript and so on in fresh_tomatoes.py file.  
 ### below is my steps to make this project.
