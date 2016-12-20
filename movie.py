@@ -12,6 +12,12 @@
 
 class Movie:
     def __init__(self, title, poster_image_url, trailer_youtube_url):
+        """
+        :param title: the movie's name
+        :param poster_image_url: the movie's poster picture url
+        :param trailer_youtube_url: the movie's video address in youtube
+        :return: no return value
+        """
         self.title = title
         self.poster_image_url = poster_image_url
         self.trailer_youtube_url = trailer_youtube_url
